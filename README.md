@@ -10,6 +10,10 @@ https://github.com/KazuKaku/New-GLDAB-Arduino-with-PWM-output
 
 2) This was devised to make it more similar to the flapping of a real bird.
 
+ The wings are folded by combining thin carbon plate parts.
+
+ ![250129 onlyFrame  Falcon141 Folding Wing SystemwithAGLDAB](/image/250129%20onlyFrame%20%20Falcon141%20Folding%20Wing%20SystemwithAGLDAB.jpg)
+
 3) By flipping a switch, you can turn off the folding or keep the wings folded at all times (stoop).
 
 4) The magnet sensor detects when the wings are entering the upstroke, and the servo folds the wings to the specified wing folding level for 1/4 of the flapping period. The wings then spread out by the top of the flapping and continue the downstroke with the wings spread out.
