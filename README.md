@@ -1,2 +1,2 @@
-# WingFoldingSystem with New GLDAB & ppm to PWMout
+# Wing Folding System with New GLDAB & ppm to PWMout
  WingFoldingSystem with PWMout&NewGLDAB by Arduino
