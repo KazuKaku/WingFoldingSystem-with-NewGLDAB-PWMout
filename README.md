@@ -2,6 +2,10 @@
 
 1) This system combines a New GLDAB by Arduino with convert PPM to PWM signal output and a system that folds the wings on the upstroke.
 
+New GLDAB by Arduino with convert PPM to PWM signal output 
+
+https://github.com/KazuKaku/New-GLDAB-Arduino-with-PWM-output
+
 2) This was devised to make it more similar to the flapping of a real bird.
 
 3) By flipping a switch, you can turn off the folding or keep the wings folded at all times (stoop).
@@ -13,6 +17,3 @@
 6) The two tail servos are set to Inverted VTail mixing in the CODE. It moves by operating the Rudder and Elevator, and you can control turning left and right and ascending and descending.
 
 
-New GLDAB by Arduino with convert PPM to PWM signal output 
-
-https://github.com/KazuKaku/New-GLDAB-Arduino-with-PWM-output
