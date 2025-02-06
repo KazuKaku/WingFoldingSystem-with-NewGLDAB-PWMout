@@ -2,6 +2,8 @@
 
 1) This system combines a New GLDAB by Arduino with convert PPM to PWM signal output and a system that folds the wings on the upstroke.
 
+![250129 Wing motion](/image/250129%20Wing%20motion.jpg)
+
 New GLDAB by Arduino with convert PPM to PWM signal output 
 
 https://github.com/KazuKaku/New-GLDAB-Arduino-with-PWM-output
