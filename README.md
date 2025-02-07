@@ -23,3 +23,7 @@ https://github.com/KazuKaku/New-GLDAB-Arduino-with-PWM-output
 6) The two tail servos are set to Inverted VTail mixing in the CODE. It moves by operating the Rudder and Elevator, and you can control turning left and right and ascending and descending.
 
 
+
+## Wiring
+
+ ![250126 FoldingWingSystemwithPWMout&Arduino GLDAB](/image/250126%20FoldingWingSystemwithPWMout&Arduino%20GLDAB.jpg)
