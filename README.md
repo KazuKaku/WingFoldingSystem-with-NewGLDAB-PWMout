@@ -4,7 +4,7 @@
 
 ![250129 Wing motion](/image/250129%20Wing%20motion.jpg)
 
-New GLDAB by Arduino with convert PPM to PWM signal output 
+ ##  reference : New GLDAB by Arduino with convert PPM to PWM signal output 
 
 https://github.com/KazuKaku/New-GLDAB-Arduino-with-PWM-output
 
