@@ -21,6 +21,32 @@
 
 
 
+# How to operate
+
+Ornithopter can fold its wings like a real bird
+
+1) The wings fold when the wings are upstroke and spread when the wings are downstroke.
+
+2) The magnet sensor detects when the wings are at their lowest position, and the wings are folded for 1/4 of a flapping cycle, and when the wings are downstroke, the wings are spread and swung down.
+
+The time the wings are folded can be adjusted. Ch 6
+
+The length of time the wings are folded is longer when the flapping frequency is low and shorter when the flapping frequency is high.
+
+3) Stoop (stoop posture) can be switched on ch5.
+
+There are three modes---Wing Folding mode, No Wing Folding Mode, Stoop mode
+
+4) The degree of folding of the wings can be adjusted. CH7
+
+5) NewGLDAB is built in, so the wings can be easily fixed in the gliding position.
+
+6) The tail can be operated with two servos to control the Inverted Vtail.
+
+
+
+
+
 ##  Falcon141 Folding Wing System : Flap test ( with Making photos)
 
 https://www.youtube.com/watch?v=LzfnhL0PMvs
