@@ -57,7 +57,13 @@ https://www.youtube.com/watch?v=LzfnhL0PMvs
  ![250126 FoldingWingSystemwithPWMout&Arduino GLDAB](/image/250126%20FoldingWingSystemwithPWMout&Arduino%20GLDAB.jpg)
 
 
-##  reference : New GLDAB by Arduino with convert PPM to PWM signal output 
+##  reference : 
+
+New GLDAB by Arduino with convert PPM to PWM signal output 
 
 https://github.com/KazuKaku/New-GLDAB-Arduino-with-PWM-output
+
+A Novel Actuation Strategy for an Agile Bioinspired FWAV Performing a Morphing-Coupled Wingbeat Pattern 
+
+https://ieeexplore.ieee.org/document/9849140
 
