@@ -68,7 +68,7 @@ A Novel Actuation Strategy for an Agile Bioinspired FWAV Performing a Morphing-C
 https://ieeexplore.ieee.org/document/9849140
 
 ## My YouTube channel 
- Various ServoFlapOrnithopters have been uploaded.
+ Various Ornithopters have been uploaded.
 (https://www.youtube.com/@BZH07614)
 
 ## My Website of ornithopter
