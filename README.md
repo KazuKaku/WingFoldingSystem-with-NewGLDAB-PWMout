@@ -4,9 +4,9 @@
 
 ![250129 Wing motion](/image/250129%20Wing%20motion.jpg)
 
-   ##  reference : New GLDAB by Arduino with convert PPM to PWM signal output 
+##  reference : New GLDAB by Arduino with convert PPM to PWM signal output 
 
-          https://github.com/KazuKaku/New-GLDAB-Arduino-with-PWM-output
+https://github.com/KazuKaku/New-GLDAB-Arduino-with-PWM-output
 
 2) This was devised to make it more similar to the flapping of a real bird.
 
@@ -26,7 +26,7 @@
 
 ##  Falcon141 Folding Wing System : Flap test ( with Making photos)
 
-    https://www.youtube.com/watch?v=LzfnhL0PMvs
+https://www.youtube.com/watch?v=LzfnhL0PMvs
 
 
 ## Wiring
