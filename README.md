@@ -51,6 +51,14 @@ There are three modes---Wing Folding mode, No Wing Folding Mode, Stoop mode
 
 https://www.youtube.com/watch?v=LzfnhL0PMvs
 
+## Falcon141 Folding Wing System : Flap test 2 with Wing Membrane
+
+https://www.youtube.com/watch?v=vdpKn6cjO1Q
+
+## List of Falcon141 Folding Wing System
+
+https://www.youtube.com/playlist?list=PLErvdRrwWuPolGrbgrTzQfxIgkow6od_m
+
 
 ## Wiring
 
