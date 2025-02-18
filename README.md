@@ -11,6 +11,8 @@
 
  ![250208 Frame  Falcon141 Folding Wing SystemwithAGLDAB](/image/250208%20Frame%20%20Falcon141%20Folding%20Wing%20SystemwithAGLDAB.jpg)
 
+ For this Ornithopter to fly, wings suitable for this system must be developed.
+
 3) By flipping a switch, you can turn off the folding or keep the wings folded at all times (stoop).
 
 4) The magnet sensor detects when the wings are entering the upstroke, and the servo folds the wings to the specified wing folding level for 1/4 of the flapping period. The wings then spread out by the top of the flapping and continue the downstroke with the wings spread out.
